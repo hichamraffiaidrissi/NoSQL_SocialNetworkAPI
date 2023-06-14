@@ -16,13 +16,13 @@ AS A social media startup, I WANT an API for my social network that uses a NoSQL
 ```
 Node.js, JavaScript, Express, MongoDB, Mongoose
 ```
-##  deployed link:
+## video deployed link:
 (https://drive.google.com/file/d/1yNdh27dDkhDHJTkf7Xz9zOlwcHk8KBGf/view)
 
 ## Screenshots
 ![screenshot-1](./images/Screenshot-1.png)
-
-
+![screenshot-2](./images/Screenshot-2.png)
+![screenshot-3](./images/Screenshot-3.png)
 
 
 ## License
