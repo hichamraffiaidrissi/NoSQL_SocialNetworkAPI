@@ -16,3 +16,15 @@ AS A social media startup, I WANT an API for my social network that uses a NoSQL
 ```
 Node.js, JavaScript, Express, MongoDB, Mongoose
 ```
+##  deployed link:
+(https://drive.google.com/file/d/1yNdh27dDkhDHJTkf7Xz9zOlwcHk8KBGf/view)
+
+## Screenshots
+![screenshot-1](./images/Screenshot-1.png)
+
+
+
+
+## License
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+
